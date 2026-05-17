@@ -47,20 +47,6 @@ I build end-to-end AI systems — from hybrid RAG pipelines and computer vision 
 
 ---
 
-## Tech Stack
-
-**Languages**  
-`Python` `JavaScript` `C++` `C` `HTML/CSS`
-
-**AI / ML**  
-`LangChain` `TensorFlow` `Scikit-Learn` `YOLOv8` `RAG` `ChromaDB` `Pandas` `NumPy`
-
-**Web & APIs**  
-`FastAPI` `Node.js` `Express.js` `React` `Vite` `Tailwind CSS`
-
-**Databases & Tools**  
-`MongoDB` `Git` `Vercel` `REST APIs` `CI/CD` `OCR`
-
 ---
 
 ## Highlights
@@ -75,8 +61,18 @@ I build end-to-end AI systems — from hybrid RAG pipelines and computer vision 
 
 ## GitHub Stats
 
-![Shravani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravanib-debug&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanib-debug&layout=compact&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
